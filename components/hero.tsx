@@ -18,7 +18,7 @@ export function Hero({ title, description }: HeroProps) {
           className="mb-8 h-40 w-48 bg-muted rounded-lg overflow-hidden relative mx-auto"
         >
           <Image 
-            src="/draw.io.png" 
+            src="/Logodraw.png" 
             alt="Drawio" 
             fill
             className="object-cover"
